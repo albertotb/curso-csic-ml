@@ -28,24 +28,24 @@
   6. Gráficos
 
 ### 3. Machine Learning práctico con scikit-learn (aprox. 10 horas)
-    1. Introducción al Machine Learning
-    2. Introducción a scikit-learn
-    3. Conjuntos de datos
-    4. Preproceso
-    5. Modelos lineales de regresión: Ridge, Lasso, Elastic Net.
-    6. Modelos lineales de clasificación: regresión logística
-    7. K-Vecinos próximos
-    8. Árboles de decisión
-    9. Ensembles: bagging y boosting
-        - Random Forest
-        - Gradient Boosting
-    10. Métricas para evaluar modelos
-    11. Introducción a modelos no supervisados: K-means
+  1. Introducción al Machine Learning
+  2. Introducción a scikit-learn
+  3. Conjuntos de datos
+  4. Preproceso
+  5. Modelos lineales de regresión: Ridge, Lasso, Elastic Net.
+  6. Modelos lineales de clasificación: regresión logística
+  7. K-Vecinos próximos
+  8. Árboles de decisión
+  9. Ensembles: bagging y boosting
+      - Random Forest
+      - Gradient Boosting
+  10. Métricas para evaluar modelos
+  11. Introducción a modelos no supervisados: K-means
 
 ### 4. Introducción a Deep Learning (aprox. 5 horas)
-    1. Introducción a Tensorflow-Keras
-        - Ejemplo de clasificación de imágenes
-    2. Modelos de segmentación de imágenes
+  1. Introducción a Tensorflow-Keras
+      - Ejemplo de clasificación de imágenes
+  2. Modelos de segmentación de imágenes
 
 
 ## Datos
