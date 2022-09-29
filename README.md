@@ -51,9 +51,9 @@
 ## Datos
 
   - [Predicting stratigraphy, Cu and Zn](https://towardsdatascience.com/exploring-use-cases-of-machine-learning-in-the-geosciences-b72ea7aafe2)
-  - [Well log facies dataset](https://www.kaggle.com/datasets/imeintanis/well-log-facies-dataset). [Notebook 1](https://www.kaggle.com/code/imeintanis/log-facies-nn-bayesian-optimization).
-  - [Mineral identification](https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset). [Notebook 1](https://www.kaggle.com/code/saidrasidin/mineral-classification). [Notebook 2](https://www.kaggle.com/code/leogalbu/starter-minerals-identification-39f249e8-0) 
-  - [Rock classification](https://www.kaggle.com/datasets/salmaneunus/rock-classification). [Notebook 1](https://www.kaggle.com/code/abdullahsaihan/mobilenet-with-smote-to-remove-data-imbalance)
+  - [Well log facies dataset](https://www.kaggle.com/datasets/imeintanis/well-log-facies-dataset). [[Notebook 1]](https://www.kaggle.com/code/imeintanis/log-facies-nn-bayesian-optimization).
+  - [Mineral identification](https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset). [[Notebook 1]](https://www.kaggle.com/code/saidrasidin/mineral-classification). [[Notebook 2]](https://www.kaggle.com/code/leogalbu/starter-minerals-identification-39f249e8-0)
+  - [Rock classification](https://www.kaggle.com/datasets/salmaneunus/rock-classification). [[Notebook 1]](https://www.kaggle.com/code/abdullahsaihan/mobilenet-with-smote-to-remove-data-imbalance)
 
 ## Referencias
 
