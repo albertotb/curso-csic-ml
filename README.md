@@ -8,7 +8,6 @@
   - matplotlib
   - seaborn
   - scikit-learn
-  - mlxtend
 
 - Conocimientos de Python 3.6+
 
