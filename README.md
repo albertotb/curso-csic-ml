@@ -53,6 +53,7 @@
   - Well log facies dataset. [[Datos]](https://www.kaggle.com/datasets/imeintanis/well-log-facies-dataset) [[Notebook]](https://www.kaggle.com/code/imeintanis/log-facies-nn-bayesian-optimization)
   - Mineral identification. [[Datos]](https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset) [[Notebook 1]](https://www.kaggle.com/code/saidrasidin/mineral-classification) [[Notebook 2]](https://www.kaggle.com/code/leogalbu/starter-minerals-identification-39f249e8-0)
   - Rock classification. [[Datos]](https://www.kaggle.com/datasets/salmaneunus/rock-classification) [[Notebook]](https://www.kaggle.com/code/abdullahsaihan/mobilenet-with-smote-to-remove-data-imbalance)
+  - Segmentación de imágemes. [[Notebook]](https://www.kaggle.com/code/bulentsiyah/deep-learning-based-semantic-segmentation-keras) [[DeepGlobe]](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset/code) [[Paper]](https://paperswithcode.com/dataset/deepglobe) [[Libreria]](https://github.com/qubvel/segmentation_models)
 
 ## Referencias
 
