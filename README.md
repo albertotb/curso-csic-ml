@@ -18,7 +18,7 @@
   2. Repaso conceptos básicos
   3. Estructuras de datos: listas, tuplas y diccionarios
 
-### 2. EDA con Pandas (7 horas)
+### 2. EDA con Pandas (aprox. 7 horas)
   1. Estructuras de datos: `DataFrame` y `Series`
   2. Importar datos
   3. Filtrado de filas y columnas
@@ -27,7 +27,7 @@
   6. Gráficos
 
 ### 3. Machine Learning práctico con scikit-learn (aprox. 10 horas)
-  1. Introducción al Machine Learning
+  1. Introducción al Machine Learning [[presentación]](http://albertotb.com/curso-ml-python/src/slides_supervised/supervised.html)
   2. Introducción a scikit-learn
   3. Conjuntos de datos
   4. Preproceso
