@@ -18,7 +18,7 @@
   2. Repaso conceptos básicos
   3. Estructuras de datos: listas, tuplas y diccionarios
 
-### 2. EDA con Pandas (7 horas)
+### 2. EDA con Pandas (aprox. 7 horas)
   1. Estructuras de datos: `DataFrame` y `Series`
   2. Importar datos
   3. Filtrado de filas y columnas
