@@ -8,6 +8,9 @@
   - matplotlib
   - seaborn
   - scikit-learn
+  - keras
+  - tensorflow
+  - segmentation_models
 
 - Conocimientos de Python 3.6+
 
