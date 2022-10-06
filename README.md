@@ -27,7 +27,7 @@
   6. Gráficos
 
 ### 3. Machine Learning práctico con scikit-learn (aprox. 10 horas)
-  1. Introducción al Machine Learning [[presentación]](http://albertotb.com/curso-ml-python/src/slides_supervised/supervised.html)
+  1. Introducción al Machine Learning [[presentación]](https://albertotb.com/curso-inap/big_data.html)
   2. Introducción a scikit-learn
   3. Conjuntos de datos
   4. Preproceso
