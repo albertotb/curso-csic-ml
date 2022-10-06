@@ -62,7 +62,7 @@
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Machine Learning tutorials](https://github.com/ethen8181/machine-learning)
-- [scikit-learn MOOC]([https://www.inria.fr/en/mooc-scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/))
+- [scikit-learn MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
 - [Machine Learning (Loyola University Chicago)](https://github.com/dmitriydligach/PyMLSlides)
 - [Machine Learning (University Wisconsin-Madison)](https://github.com/rasbt/stat479-machine-learning-fs19)
 - [Applied Machine Learning (Columbia University)](https://github.com/amueller/COMS4995-s20)
